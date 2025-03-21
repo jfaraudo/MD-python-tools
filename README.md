@@ -1,3 +1,3 @@
 # MD-python-tools
-Tools in python related to MD simulations
-(in development, we are starting now to post here our group resources)
+Tools in python related to analysis of MD simulations
+(in development)
