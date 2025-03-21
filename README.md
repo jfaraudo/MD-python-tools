@@ -1,3 +1,3 @@
 # MD-python-tools
-Tools in python for analysis of MD simulations performed with NAMD
+Tools in python related to MD simulations
 (in development, we are starting now to post here our group resources)
